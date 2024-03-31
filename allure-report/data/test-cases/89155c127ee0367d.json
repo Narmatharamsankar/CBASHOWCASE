@@ -1,0 +1,98 @@
+{
+  "uid" : "89155c127ee0367d",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "ccf41228d894a4741cc7a186dc255a0d",
+  "time" : {
+    "start" : 1711869319625,
+    "stop" : 1711869321110,
+    "duration" : 1485
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1711869302675,
+      "stop" : 1711869303415,
+      "duration" : 740
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1711869347414,
+      "stop" : 1711869354737,
+      "duration" : 7323
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-101.tpgi.com.au"
+  }, {
+    "name" : "thread",
+    "value" : "44267@192-168-1-101.tpgi.com.au.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"GET - FIND PETS BY STATUS - Verify the pet details are successfully retrieved by status and  a response status code 200 is returned\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\""
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89155c127ee0367d.json",
+  "parameterValues" : [ "\"GET - FIND PETS BY STATUS - Verify the pet details are successfully retrieved by status and  a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+}

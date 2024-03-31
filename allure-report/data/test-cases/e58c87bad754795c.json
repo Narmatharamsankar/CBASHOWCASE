@@ -1,0 +1,100 @@
+{
+  "uid" : "e58c87bad754795c",
+  "name" : "Runs Cucumber Scenarios",
+  "fullName" : "io.cucumber.testng.AbstractTestNGCucumberTests.runScenario",
+  "historyId" : "ae7f7269c063c6ad3dc130c961be0c0f",
+  "time" : {
+    "start" : 1711869327240,
+    "stop" : 1711869331745,
+    "duration" : 4505
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1711869302675,
+      "stop" : 1711869303415,
+      "duration" : 740
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1711869347414,
+      "stop" : 1711869354737,
+      "duration" : 7323
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "runScenario"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "runner.PetStoreApiRegressionSuiteRunner"
+  }, {
+    "name" : "host",
+    "value" : "192-168-1-101.tpgi.com.au"
+  }, {
+    "name" : "thread",
+    "value" : "44267@192-168-1-101.tpgi.com.au.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "\"GET - FIND PET BY ID - Verify the search for already deleted pet fails and returns a status code 404 Pet Not Found\""
+  }, {
+    "name" : "arg1",
+    "value" : "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\""
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e58c87bad754795c.json",
+  "parameterValues" : [ "\"GET - FIND PET BY ID - Verify the search for already deleted pet fails and returns a status code 404 Pet Not Found\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+}

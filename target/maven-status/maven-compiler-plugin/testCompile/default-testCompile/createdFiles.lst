@@ -1,0 +1,3 @@
+stepdefenitions/Hooks.class
+stepdefenitions/PetStoreApiStepDefinition.class
+runner/PetStoreApiRegressionSuiteRunner.class

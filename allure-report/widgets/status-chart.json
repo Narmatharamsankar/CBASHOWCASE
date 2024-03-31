@@ -1,0 +1,141 @@
+[ {
+  "uid" : "3885aa5d2094a68a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869336046,
+    "stop" : 1711869339037,
+    "duration" : 2991
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e58c87bad754795c",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869327240,
+    "stop" : 1711869331745,
+    "duration" : 4505
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80a8d337c7b295bd",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869339040,
+    "stop" : 1711869341778,
+    "duration" : 2738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4278b1b13a17c68",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869345889,
+    "stop" : 1711869347412,
+    "duration" : 1523
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7e3d8f39c543fbb",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869341780,
+    "stop" : 1711869345885,
+    "duration" : 4105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "925ac3f7873214d",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869314073,
+    "stop" : 1711869317376,
+    "duration" : 3303
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dfaceb9ffbc839c",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869333181,
+    "stop" : 1711869336044,
+    "duration" : 2863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c5765cafadca12f",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869324171,
+    "stop" : 1711869327238,
+    "duration" : 3067
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c7d788c0518f147",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869309437,
+    "stop" : 1711869310667,
+    "duration" : 1230
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dce7539b76e139a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869331748,
+    "stop" : 1711869333179,
+    "duration" : 1431
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "851bff41664a7c20",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869321113,
+    "stop" : 1711869322678,
+    "duration" : 1565
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd3c5e78e96173a",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869310673,
+    "stop" : 1711869314071,
+    "duration" : 3398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "328870bedda595d0",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869307985,
+    "stop" : 1711869309426,
+    "duration" : 1441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d06e89abe0858f8",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1711869322682,
+    "stop" : 1711869324168,
+    "duration" : 1486
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

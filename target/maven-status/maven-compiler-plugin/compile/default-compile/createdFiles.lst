@@ -1,0 +1,5 @@
+model/Pets$Builder.class
+model/Tag.class
+model/Pets.class
+model/Status.class
+model/Category.class

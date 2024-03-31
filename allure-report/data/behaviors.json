@@ -1,0 +1,187 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "328870bedda595d0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869307985,
+      "stop" : 1711869309426,
+      "duration" : 1441
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"POST - ADD A NEW PET TO THE PETSTORE - Verify a pet is successfully created with valid data\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "5c7d788c0518f147",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1711869309437,
+      "stop" : 1711869310667,
+      "duration" : 1230
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"POST - ADD A NEW PET TO THE PETSTORE - Verify creating a pet with invalid data fails with status code 405(ADD A NEW PET TO THE PETSTORE)\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "ccd3c5e78e96173a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869310673,
+      "stop" : 1711869314071,
+      "duration" : 3398
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"POST - UPLOAD AN IMAGE - Verify a  url for the pet can be added successfully to the petstore a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "925ac3f7873214d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869314073,
+      "stop" : 1711869317376,
+      "duration" : 3303
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"PUT - UPDATE AN EXISTING PET - PET OBJECT NEEDS TO BE ADDED -  Verify the pet status can be updated successfully for a valid pet data and a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "851bff41664a7c20",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869321113,
+      "stop" : 1711869322678,
+      "duration" : 1565
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"GET - FIND PETS BY STATUS - Verify the pet details are successfully retrieved by status and  a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "6d06e89abe0858f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1711869322682,
+      "stop" : 1711869324168,
+      "duration" : 1486
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"GET - FIND PETS BY STATUS - Verify the searching the pets with wrong status fails and returns error code 400 invalid status value\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "8c5765cafadca12f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869324171,
+      "stop" : 1711869327238,
+      "duration" : 3067
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"GET - FIND PET BY ID -  Verify the search for the pet with valid id is successful and a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "e58c87bad754795c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869327240,
+      "stop" : 1711869331745,
+      "duration" : 4505
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"GET - FIND PET BY ID - Verify the search for already deleted pet fails and returns a status code 404 Pet Not Found\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "1dce7539b76e139a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1711869331748,
+      "stop" : 1711869333179,
+      "duration" : 1431
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"GET - FIND PET BY ID - Verify the search for the pet with invalid id fails with status code 400 Invalid ID Supplied\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "3dfaceb9ffbc839c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869333181,
+      "stop" : 1711869336044,
+      "duration" : 2863
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"POST - UPDATE A PET IN THE STORE WITH FORM DATA - Verify  update status of the existing pet is successful and a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "3885aa5d2094a68a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1711869336046,
+      "stop" : 1711869339037,
+      "duration" : 2991
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"POST - UPDATE A PET IN THE STORE WITH FORM DATA - Verify update status of the existing pet falis when an invalid status is given  and a response status code 405 invalid input is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "80a8d337c7b295bd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869339040,
+      "stop" : 1711869341778,
+      "duration" : 2738
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"DELETE A PET - Verify an exisiting pet is successfully deleted and a response status code 200 is returned\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "c7e3d8f39c543fbb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1711869341780,
+      "stop" : 1711869345885,
+      "duration" : 4105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"DELETE A PET -  Verify attempt to delete a pet that is already deleted falis with error code 404 pet not found\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  }, {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "a4278b1b13a17c68",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1711869345889,
+      "stop" : 1711869347412,
+      "duration" : 1523
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"DELETE A PET - Verify an attempt to delete a pet with invalid id fails with error code 400 invalid id supplied\"", "\"Optional[SwaggerPetStore Api Regression Testing Scenarios]\"" ]
+  } ]
+}

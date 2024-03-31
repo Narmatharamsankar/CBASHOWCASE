@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: runner.PetStoreApiRegressionSuiteRunner
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 52.805 s <<< FAILURE! - in runner.PetStoreApiRegressionSuiteRunner
+runScenario(runner.PetStoreApiRegressionSuiteRunner)  Time elapsed: 1.235 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <405> but was <200>.
+
+
+runScenario(runner.PetStoreApiRegressionSuiteRunner)  Time elapsed: 1.487 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+runScenario(runner.PetStoreApiRegressionSuiteRunner)  Time elapsed: 1.431 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+
+runScenario(runner.PetStoreApiRegressionSuiteRunner)  Time elapsed: 2.992 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <405> but was <200>.
+
+
+runScenario(runner.PetStoreApiRegressionSuiteRunner)  Time elapsed: 1.524 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+

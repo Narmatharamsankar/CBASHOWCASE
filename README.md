@@ -7,9 +7,10 @@ mvn clean verify
 mvn allure:report
 
 #Please find the summary of test resuls in the screen-shots of reports generated - 
+<img width="1811" alt="Screenshot 2024-04-01 at 2 18 04 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/8c8f4526-7c64-4596-a75c-e76cb415e777">
 
-<img width="2048" alt="Screenshot 2024-04-01 at 2 00 32 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/a9600796-5aa4-4480-8164-3eef6cdb46ba">
-List of Scenarios 
-<img width="2048" alt="Screenshot 2024-04-01 at 2 00 58 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/8266d119-557b-4af5-8fb3-17f57d927974">
+List of Test Scenarios executed
+<img width="1693" alt="Screenshot 2024-04-01 at 2 18 59 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/252b366a-d2d2-4d01-8262-28943dd3f915">
+
 List of Defects 
-<img width="2048" alt="Screenshot 2024-04-01 at 2 01 33 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/01ebe89d-b852-45db-98ba-871084a118c5">
+<img width="1702" alt="Screenshot 2024-04-01 at 2 18 37 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/34c3f9db-ed5f-4d61-909f-b4c48dc321b3">

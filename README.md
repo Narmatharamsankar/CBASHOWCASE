@@ -6,7 +6,7 @@ mvn clean verify
 ## To generate Allure-report for the tests results, execute the following Maven command -
 mvn allure:report
 
-#Please find the summary of test resuls in the screen-shots of reports generated - 
+Please find the summary of test resuls in the screen-shots of reports generated - 
 <img width="1811" alt="Screenshot 2024-04-01 at 2 18 04 pm" src="https://github.com/Narmatharamsankar/CBASHOWCASE/assets/146934862/8c8f4526-7c64-4596-a75c-e76cb415e777">
 
 List of Test Scenarios executed
